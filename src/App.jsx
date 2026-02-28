@@ -241,7 +241,7 @@ function App() {
             <a href="#"><Instagram /></a>
             <a href="#"><Ghost /></a>
           </div>
-          <p>&copy; 2024 TinyTrends Store. Todos los derechos reservados.</p>
+          <p>&copy; 2026 TinyTrends Store. Todos los derechos reservados.</p>
           <p>Contáctanos: +51 943 657 599</p>
         </div>
       </footer>
